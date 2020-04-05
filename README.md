@@ -1,5 +1,5 @@
 # Discover-NCOV19
-Drug discovery toolkit proposal for Covid19
+Drug discovery [toolkit proposal](https://devpost.com/software/covid19-inspired-drug-discovery-toolkit) for Covid19
 
 Sequence: https://swift.cmbi.umcn.nl/servers/tmp//tmppHKrUI//sequence.pir  
 Templates: https://swissmodel.expasy.org/interactive/ZQWX6e/models/  
